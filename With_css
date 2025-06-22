@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+<style>
+.text{
+width:90%;
+height:auto;
+color: blue;
+background:red;
+text-align:justify;
+text-decoration:underline;
+text-transform:capitalize;
+word-spacing:3px;
+letter-spacing:2px;}
+</style>
+
+</head>
+<body>
+<p class="text">
+🏢 C-DAC Patna – 4-Week Short-Term Training Programs
+
+C-DAC Patna offers intensive 4-week (100-hour) training programs designed to provide hands-on experience in cutting-edge technologies. 
+
+Courses Available:
+Full Stack Development using MERN Stack
+AI & Data Science using Python
+Cyber Security and Ethical Hacking
+Mastering Programming using Java 
+
+
+Details:
+
+Duration: 4 weeks (100 hours)
+
+Start Date: 23-Jun-2025
+
+Fees: ₹6,490 (All Inclusive)
+
+Timings: 4 hours/day between 09:00 AM - 7:00 PM
+
+Venue: C-DAC Patna 
+</p>
+  <a href="https://cdaa.in">behsmb</a>
+</body>
+</html>
